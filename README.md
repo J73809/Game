@@ -1,7 +1,7 @@
 # Invert Flappy
 
 Invert Flappy is a Flappy Bird-inspired game made with Python and Pygame. It features inverted-style graphics (except for the player), a parallax background, and smooth gameplay.
----
+
 
 ## How to Play
 
@@ -23,6 +23,6 @@ Invert Flappy is a Flappy Bird-inspired game made with Python and Pygame. It fea
 
 ## Credits
 
-[Sound].(https://github.com/samuelcust/flappy-bird-assets/tree/master/audio)
+[Sound](https://github.com/samuelcust/flappy-bird-assets/tree/master/audio)
 
 Base concept inspired by Flappy Bird
